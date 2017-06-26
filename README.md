@@ -5,5 +5,6 @@ Useful Inbuilt JS functions
 
 function | description | example
 ----------|----------|----------
-charAt() | produces the character at the specified position | var str = "This is a string"; \n str.charAt(10)
-"s"
+charAt() | produces the character at the specified position | var str = "This is a string";
+                                                              str.charAt(10) 
+                                                              "s"
